@@ -19,6 +19,34 @@
         <toc-element topic="Continuous-Integration-Pipelines.md"/>
     </toc-element>
     <toc-element toc-title="Astra API">
+        <toc-element toc-title="Guides">
+            <toc-element toc-title="Deployment">
+                <toc-element topic="Docker-deployments.md"/>
+                <toc-element topic="Manual-building.md"/>
+                <toc-element topic="Version-Tag-building.md"/>
+            </toc-element>
+            <toc-element toc-title="Komplex Features">
+                <toc-element topic="Settings-Environment-Variables.md"/>
+                <toc-element topic="Reportable-Content.md"/>
+                <toc-element topic="Translatable-Content.md"/>
+                <toc-element topic="Predefined-model-queries.md"/>
+                <toc-element topic="File-upload.md"/>
+                <toc-element topic="Middlewares.md"/>
+                <toc-element topic="Policies.md"/>
+                <toc-element topic="Services.md"/>
+            </toc-element>
+            <toc-element toc-title="Testing">
+                <toc-element topic="Testing-with-a-development-app-instance.md"/>
+                <toc-element topic="Integration-tests.md"/>
+                <toc-element topic="Unit-tests.md"/>
+            </toc-element>
+            <toc-element toc-title="Getting Started">
+                <toc-element topic="Pull-request-contributing.md"/>
+                <toc-element topic="Feature-workflow.md"/>
+                <toc-element topic="Folder-and-file-structure.md"/>
+                <toc-element topic="Development-environment-creation.md"/>
+            </toc-element>
+        </toc-element>
         <toc-element topic="Astra-Docs.md"/>
         <toc-element topic="Astra-Quickstart.md"/>
         <toc-element topic="Astra-Reference.md">

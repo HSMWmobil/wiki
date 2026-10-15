@@ -10,4 +10,8 @@
         <description>Created after removal of "Base Architecture" from Wiki</description>
         <accepts>Base-Architecture.html</accepts>
     </rule>
+    <rule id="6322325b">
+        <description>Created after removal of "Guides" from Wiki</description>
+        <accepts>Guides.html</accepts>
+    </rule>
 </rules>
